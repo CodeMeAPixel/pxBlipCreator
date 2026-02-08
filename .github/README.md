@@ -11,10 +11,10 @@ A FiveM blip management tool with a web UI. Create, customize, and share map bli
 > This resource is not yet ready for production use and is only public at this stage for transparency. 
 
 ## Getting started
-- [Installation](.docs/INSTALLATION.md)
-- [Usage](.docs/USAGE.md)
-- [API Reference](.docs/API.md)
-- [Troubleshooting](.docs/TROUBLESHOOTING.md)
+- [Installation](../.docs/INSTALLATION.md)
+- [Usage](../.docs/USAGE.md)
+- [API Reference](../.docs/API.md)
+- [Troubleshooting](../.docs/TROUBLESHOOTING.md)
 
 ## Development & contributing
 - [Development Guide](DEVELOPMENT.md)
